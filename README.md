@@ -8,3 +8,5 @@ IJS Future Features:
 Allow you to instantly upload the image to imgur / img uploading site
 Remove un-wanted things
 Optimize code
+
+Repo moved!
